@@ -22,7 +22,7 @@ jobs:
                 uses: docker/login-action@v2
                 with:
                     username: ing5058
-                    password: dckr_pat_W49PFXaOLjdEkcZSKSN446r3x70
+                    password: ddckr_pat_u_p-00F0xoUbjd5hSAx1uAy50cI
             -
                 name: prepare the docker-compose run
                 run: |
